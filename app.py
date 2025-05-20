@@ -7,6 +7,7 @@ st.set_page_config(layout='wide', initial_sidebar_state='expanded')
 sns.set_style("whitegrid")
 
 st.title("Análisis de Ventas y Clientes")
+st.subheader("Trabajo Grupal - Grupo 16")
 
 # Cargar CSV
 @st.cache_data
